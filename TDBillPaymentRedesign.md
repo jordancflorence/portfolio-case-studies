@@ -1,4 +1,4 @@
-# Case Study: TD Online Banking — Bill Payment Workflow Redesign
+# Case Study: TD Online Banking - Bill Payment Workflow Redesign
 
 **Role:** Personal Banking Associate, TD Canada Trust
 **Timeline:** Approximately 2023
