@@ -1,4 +1,4 @@
-# Portfolio Case Studies
+# 📁 Portfolio Case Studies
 
 A collection of operational case studies documenting real problems identified,
 solutions designed, and outcomes delivered across my career in banking
@@ -10,7 +10,7 @@ make the work legible to hiring managers who weren't in the room.
 
 ---
 
-## Why This Repo Exists
+## 🧭 Why This Repo Exists
 
 Resumes list what you did. Case studies show how you think.
 
@@ -22,16 +22,16 @@ identified the first time.
 
 ---
 
-## Case Studies
+## 📋 Case Studies
 
 | Project | Context | Core Skill Demonstrated |
 |---|---|---|
-| [Bill Payment UI/UX Fix](TDBillPaymentRedesign.md) | TD Canada Trust | Process analysis, problem identification, cross-functional impact |
-| [Credit Fulfillment Onboarding Program](TdOnboardingProgram.md) | TD Canada Trust | Program design, workflow standardization, operational training |
+| 💳 [Bill Payment Workflow Redesign](TDBillPaymentRedesign.md) | TD Canada Trust | Process analysis, problem identification, cross-functional impact |
+| 📋 [Credit Fulfillment Onboarding Program](TdOnboardingProgram.md) | TD Canada Trust | Program design, workflow standardization, operational training |
 
 ---
 
-## About
+## 👤 About
 
 I'm Jordan Florence - an operational problem-solver with a technical
 education and 9+ years in banking operations. My background sits at the
