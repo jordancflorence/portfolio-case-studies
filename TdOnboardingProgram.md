@@ -11,7 +11,7 @@
 TD Business Banking's credit fulfillment operations team processes funding
 for business credit deals under a strict 24-hour SLA. The work ranges from
 routine credit transactions to complex multi-party deals worth up to
-$750,000 -- including business acquisitions, real estate closings, and
+$750,000 - including business acquisitions, real estate closings, and
 government-backed funding arrangements. The stakes are high, the pace is
 relentless, and the compliance requirements are non-negotiable.
 
@@ -32,7 +32,7 @@ experienced in my career.
 ## ⚠️ The Problem
 
 The gap between what a new officer needed to know and what the existing
-onboarding process provided was significant -- and the consequences were
+onboarding process provided was significant - and the consequences were
 not abstract.
 
 Three compounding problems defined the existing approach:
@@ -44,7 +44,7 @@ Three compounding problems defined the existing approach:
   requirements, forcing officers to rely on outdated documentation or
   informal personal workarounds
 - 📊 **No structured progression** existed from supervised to independent
-  work -- no quality checkpoints, no milestones, no way to confirm an
+  work - no quality checkpoints, no milestones, no way to confirm an
   officer was genuinely ready to handle complex deals on their own
 
 I experienced all of this firsthand. I decided something should be done
@@ -60,7 +60,7 @@ This program was not assigned to me. It was not part of my job description.
 tenured officers to understand their workflows, the pain points they
 encountered consistently, and the gaps between the procedure library and
 actual practice. I facilitated pain point sessions with the broader team
-during the three-month period when leadership was absent -- creating a
+during the three-month period when leadership was absent - creating a
 structured space for officers to surface concerns and shape what a better
 onboarding experience could look like.
 
