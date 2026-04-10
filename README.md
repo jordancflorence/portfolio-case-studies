@@ -26,8 +26,8 @@ identified the first time.
 
 | Project | Context | Core Skill Demonstrated |
 |---|---|---|
-| [Bill Payment UI/UX Fix](case-studies/TDBillPaymentRedesign.md) | TD Canada Trust | Process analysis, problem identification, cross-functional impact |
-| [Credit Fulfillment Onboarding Program](case-studies/CreditFulfillmentOnboarding.md) | TD Canada Trust | Program design, workflow standardization, operational training |
+| [Bill Payment UI/UX Fix](TDBillPaymentRedesign.md) | TD Canada Trust | Process analysis, problem identification, cross-functional impact |
+| [Credit Fulfillment Onboarding Program](CreditFulfillmentOnboarding.md) | TD Canada Trust | Program design, workflow standardization, operational training |
 
 ---
 
